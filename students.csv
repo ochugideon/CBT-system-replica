@@ -1,0 +1,503 @@
+student_id,full_name,reg_number,dept_id
+1,"Effiong Blessing Hope",24/SC/CO/177,1
+2,"Gideon Wohu Ochu",24/SC/CO/180,3
+3,"Moses Abraham Mfon",24/SC/CO/181,2
+4,"Ekpa Utibe-Abasi Enoch",24/SC/CO/185,1
+5,"Sunny David",24/SC/CO/192,3
+6,"Francis Bright Edet",24/SC/CO/200,2
+7,"Eugene Icholo Ben",24/SC/CO/208,1
+8,"Ekikor Sylvester James",24/SC/CO/212,3
+9,"Idowu-Koya, Mosimililuwa Olumide",24/SC/CO/214,1
+10,"Augustine David",24/SC/CO/216,2
+11,"Wisdom Eyoh Edet",24/SC/CO/218,1
+12,"Idaraobong Anietie Asuquo",24/SC/CO/227,3
+13,"Ekpono-Abasi Mbuknso Akpan",24/SC/CO/231,2
+14,"Mmokutima Joseph Esidem",24/SC/CO/233,1
+15,"God'swill Udoette Friday",24/SC/CO/241,3
+16,"Sunday, Abasienyene Inem",24/SC/CO/243,2
+17,"Sunday Emmanuel Daniel",24/SC/CO/246,1
+18,"Favour Bassey Ita",24/SC/CO/251,3
+19,"Tobias Joseph Umoh",24/SC/CO/252,2
+20,"Miracle Ubong Brown",24/SC/CO/254,1
+21,"Kingsley Etukufot",24/SC/CO/255,2
+22,"Waribo Etong Awaji Jack",24/SC/CO/264,3
+23,"Sampson Patience Uwem",24/SC/CO/267,1
+24,"Monday Gospel Moses",24/SC/CO/283,2
+25,"Etim Uduakabasi Celestine",24/SC/CO/289,1
+26,"Obilor Temple Chinedum",24/SC/CO/299,3
+27,"Abasi-Odiong Itoro Ofon",24/SC/CO/311,2
+28,"Happiness Friday Dominic",24/SC/CO/318,1
+29,"Henry Victor Edem",24/SC/CO/319,3
+30,"Christian Bassey John",24/SC/CO/320,2
+31,"Ekpo Dominion Ofem",24/SC/CO/322,1
+32,"Joseph Boniface Asukwo",24/SC/CO/325,3
+33,"Sunday Victor Emmanuel",24/SC/CO/337,2
+34,"Sampson Idara Solomon",24/SC/CO/341,1
+35,"David-Hero E. Umoh",24/SC/CO/354,2
+36,"Samuel Precious Nse",24/SC/CO/355,3
+37,"Ade Mirabel Ireoshang",24/SC/CO/358,1
+38,"Edon Micheal Anthony",24/SC/CO/361,2
+39,"Elisha Edet John",24/SC/CO/371,3
+40,"Silas Victor Sylvester",24/SC/CO/376,1
+41,"Sylvester Chinonso Uchenna",24/SC/CO/379,2
+42,"Umo, Uwakmfon Emmanuel",24/SC/CO/385,3
+43,"Ekehson Precious Amos",24/SC/CO/387,1
+44,"Walter Cosmos Israel",24/SC/CO/388,2
+45,"Bassey Aniekeme Sunday",24/SC/CO/394,3
+46,"Darryl-Goodness Usen Udo",24/SC/CO/399,1
+47,"Harmony Samuel Nyesom",24/SC/CO/406,2
+48,"Precious Alex Ojiego",24/SC/CO/419,3
+49,"Chukwuma Lucy Ogochukwu",24/SC/CO/430,1
+50,"Prince Emeka Joel",24/SC/CO/434,2
+51,"Emenike Kingsley",24/SC/CO/437,3
+52,"Nsentip, Adaghubong Bassey",24/SC/CO/445,1
+53,"Okon Godsxill Edet",24/SC/CO/461,2
+54,"Akpan, Praise Unwana",24/SC/CO/462,3
+55,"Victor, Goodness Utibeabasi",24/SC/CO/477,1
+56,"Victory Ntiedo Jumbo",24/SC/CO/479,2
+57,"Nkanteen Godswill Mfon",24/SC/CO/491,3
+58,"Ubongabasi Ema Ebeute",24/SC/CO/519,1
+59,"Silas Bright Nsikakobong",24/SC/CO/527,2
+60,"Queeneth Effiom Ironbar",24/SC/CO/534,3
+61,"Taiwo, Enoch Nunayon",24/SC/CO/545,1
+62,"John Umanah Edet",24/SC/CO/560,2
+63,"Edet Godswill Orlando",24/SC/CO/563,3
+64,"Godswill Bassey Akpabio",24/SC/CO/594,1
+65,"Martin Alexander Umoh",24/SC/CO/612,2
+66,"Abasiodiong Michael Inyang",24/SC/CO/616,3
+67,"Ubong Gabriel Udofia",24/SC/CO/634,1
+68,"Ekpeyong David Sunday",24/SC/CO/639,2
+69,"Promise Maxwell Obadiah",24/SC/CO/650,3
+70,"Victor-Sunday Rhema",24/SC/CO/655,1
+71,"Ukpong Miracle Philip",24/SC/CO/683,2
+72,"Clinton Ukeme Ekaette",24/SC/CO/688,3
+73,"Akang Peace",24/SC/CO/693,1
+74,"Kingsley Emmanuel Essienutin",24/SC/CO/721,2
+75,"Aniekeme Akpan",24/SC/CO/725,3
+76,"Emmanuel Udoh",24/SC/CO/726,1
+77,"Blessing Edet",24/SC/CO/727,2
+78,"Daniel Bassey",24/SC/CO/728,3
+79,"David Essien",24/SC/CO/729,1
+80,"Precious Okon",24/SC/CO/730,2
+81,"Utibe Etim",24/SC/CO/731,3
+82,"Kufre Umoh",24/SC/CO/732,1
+83,"Idara Asuquo",24/SC/CO/733,2
+84,"Inyang Inyang",24/SC/CO/734,3
+85,"Mfon Ekanem",24/SC/CO/735,1
+86,"Emeka Ntuen",24/SC/CO/736,2
+87,"Chinedu Ita",24/SC/CO/737,3
+88,"Gideon Offiong",24/SC/CO/738,1
+89,"Grace Eyo",24/SC/CO/739,2
+90,"Faith Chukwu",24/SC/CO/740,3
+91,"Joy Okafor",24/SC/CO/741,1
+92,"Victor Adeyemi",24/SC/CO/742,2
+93,"Samuel Danladi",24/SC/CO/743,3
+94,"Joshua Bello",24/SC/CO/744,1
+95,"Aniekeme Udoh",24/SC/CO/745,2
+96,"Emmanuel Edet",24/SC/CO/746,3
+97,"Blessing Bassey",24/SC/CO/747,1
+98,"Daniel Essien",24/SC/CO/748,2
+99,"David Okon",24/SC/CO/749,3
+100,"Precious Etim",24/SC/CO/750,1
+101,"Utibe Umoh",24/SC/CO/751,2
+102,"Kufre Asuquo",24/SC/CO/752,3
+103,"Idara Inyang",24/SC/CO/753,1
+104,"Inyang Ekanem",24/SC/CO/754,2
+105,"Mfon Ntuen",24/SC/CO/755,3
+106,"Emeka Ita",24/SC/CO/756,1
+107,"Chinedu Offiong",24/SC/CO/757,2
+108,"Gideon Eyo",24/SC/CO/758,3
+109,"Grace Chukwu",24/SC/CO/759,1
+110,"Faith Okafor",24/SC/CO/760,2
+111,"Joy Adeyemi",24/SC/CO/761,3
+112,"Victor Danladi",24/SC/CO/762,1
+113,"Samuel Bello",24/SC/CO/763,2
+114,"Joshua Akpan",24/SC/CO/764,3
+115,"Aniekeme Edet",24/SC/CO/765,1
+116,"Emmanuel Bassey",24/SC/CO/766,2
+117,"Blessing Essien",24/SC/CO/767,3
+118,"Daniel Okon",24/SC/CO/768,1
+119,"David Etim",24/SC/CO/769,2
+120,"Precious Umoh",24/SC/CO/770,3
+121,"Utibe Asuquo",24/SC/CO/771,1
+122,"Kufre Inyang",24/SC/CO/772,2
+123,"Idara Ekanem",24/SC/CO/773,3
+124,"Inyang Ntuen",24/SC/CO/774,1
+125,"Mfon Ita",24/SC/CO/775,2
+126,"Emeka Offiong",24/SC/CO/776,3
+127,"Chinedu Eyo",24/SC/CO/777,1
+128,"Gideon Chukwu",24/SC/CO/778,2
+129,"Grace Okafor",24/SC/CO/779,3
+130,"Faith Adeyemi",24/SC/CO/780,1
+131,"Joy Danladi",24/SC/CO/781,2
+132,"Victor Bello",24/SC/CO/782,3
+133,"Samuel Akpan",24/SC/CO/783,1
+134,"Joshua Udoh",24/SC/CO/784,2
+135,"Aniekeme Bassey",24/SC/CO/785,3
+136,"Emmanuel Essien",24/SC/CO/786,1
+137,"Blessing Okon",24/SC/CO/787,2
+138,"Daniel Etim",24/SC/CO/788,3
+139,"David Umoh",24/SC/CO/789,1
+140,"Precious Asuquo",24/SC/CO/790,2
+141,"Utibe Inyang",24/SC/CO/791,3
+142,"Kufre Ekanem",24/SC/CO/792,1
+143,"Idara Ntuen",24/SC/CO/793,2
+144,"Inyang Ita",24/SC/CO/794,3
+145,"Mfon Offiong",24/SC/CO/795,1
+146,"Emeka Eyo",24/SC/CO/796,2
+147,"Chinedu Chukwu",24/SC/CO/797,3
+148,"Gideon Okafor",24/SC/CO/798,1
+149,"Grace Adeyemi",24/SC/CO/799,2
+150,"Faith Danladi",24/SC/CO/800,3
+151,"Joy Bello",24/SC/CO/801,1
+152,"Victor Akpan",24/SC/CO/802,2
+153,"Samuel Udoh",24/SC/CO/803,3
+154,"Joshua Edet",24/SC/CO/804,1
+155,"Aniekeme Essien",24/SC/CO/805,2
+156,"Emmanuel Okon",24/SC/CO/806,3
+157,"Blessing Etim",24/SC/CO/807,1
+158,"Daniel Umoh",24/SC/CO/808,2
+159,"David Asuquo",24/SC/CO/809,3
+160,"Precious Inyang",24/SC/CO/810,1
+161,"Utibe Ekanem",24/SC/CO/811,2
+162,"Kufre Ntuen",24/SC/CO/812,3
+163,"Idara Ita",24/SC/CO/813,1
+164,"Inyang Offiong",24/SC/CO/814,2
+165,"Mfon Eyo",24/SC/CO/815,3
+166,"Emeka Chukwu",24/SC/CO/816,1
+167,"Chinedu Okafor",24/SC/CO/817,2
+168,"Gideon Adeyemi",24/SC/CO/818,3
+169,"Grace Danladi",24/SC/CO/819,1
+170,"Faith Bello",24/SC/CO/820,2
+171,"Joy Akpan",24/SC/CO/821,3
+172,"Victor Udoh",24/SC/CO/822,1
+173,"Samuel Edet",24/SC/CO/823,2
+174,"Joshua Bassey",24/SC/CO/824,3
+175,"Aniekeme Okon",24/SC/CO/825,1
+176,"Emmanuel Etim",24/SC/CO/826,2
+177,"Blessing Umoh",24/SC/CO/827,3
+178,"Daniel Asuquo",24/SC/CO/828,1
+179,"David Inyang",24/SC/CO/829,2
+180,"Precious Ekanem",24/SC/CO/830,3
+181,"Utibe Ntuen",24/SC/CO/831,1
+182,"Kufre Ita",24/SC/CO/832,2
+183,"Idara Offiong",24/SC/CO/833,3
+184,"Inyang Eyo",24/SC/CO/834,1
+185,"Mfon Chukwu",24/SC/CO/835,2
+186,"Emeka Okafor",24/SC/CO/836,3
+187,"Chinedu Adeyemi",24/SC/CO/837,1
+188,"Gideon Danladi",24/SC/CO/838,2
+189,"Grace Bello",24/SC/CO/839,3
+190,"Faith Akpan",24/SC/CO/840,1
+191,"Joy Udoh",24/SC/CO/841,2
+192,"Victor Edet",24/SC/CO/842,3
+193,"Samuel Bassey",24/SC/CO/843,1
+194,"Joshua Essien",24/SC/CO/844,2
+195,"Aniekeme Etim",24/SC/CO/845,3
+196,"Emmanuel Umoh",24/SC/CO/846,1
+197,"Blessing Asuquo",24/SC/CO/847,2
+198,"Daniel Inyang",24/SC/CO/848,3
+199,"David Ekanem",24/SC/CO/849,1
+200,"Precious Ntuen",24/SC/CO/850,2
+201,"Utibe Ita",24/SC/CO/851,3
+202,"Kufre Offiong",24/SC/CO/852,1
+203,"Idara Eyo",24/SC/CO/853,2
+204,"Inyang Chukwu",24/SC/CO/854,3
+205,"Mfon Okafor",24/SC/CO/855,1
+206,"Emeka Adeyemi",24/SC/CO/856,2
+207,"Chinedu Danladi",24/SC/CO/857,3
+208,"Gideon Bello",24/SC/CO/858,1
+209,"Grace Akpan",24/SC/CO/859,2
+210,"Faith Udoh",24/SC/CO/860,3
+211,"Joy Edet",24/SC/CO/861,1
+212,"Victor Bassey",24/SC/CO/862,2
+213,"Samuel Essien",24/SC/CO/863,3
+214,"Joshua Okon",24/SC/CO/864,1
+215,"Aniekeme Umoh",24/SC/CO/865,2
+216,"Emmanuel Asuquo",24/SC/CO/866,3
+217,"Blessing Inyang",24/SC/CO/867,1
+218,"Daniel Ekanem",24/SC/CO/868,2
+219,"David Ntuen",24/SC/CO/869,3
+220,"Precious Ita",24/SC/CO/870,1
+221,"Utibe Offiong",24/SC/CO/871,2
+222,"Kufre Eyo",24/SC/CO/872,3
+223,"Idara Chukwu",24/SC/CO/873,1
+224,"Inyang Okafor",24/SC/CO/874,2
+225,"Mfon Adeyemi",24/SC/CO/875,3
+226,"Emeka Danladi",24/SC/CO/876,1
+227,"Chinedu Bello",24/SC/CO/877,2
+228,"Gideon Akpan",24/SC/CO/878,3
+229,"Grace Udoh",24/SC/CO/879,1
+230,"Faith Edet",24/SC/CO/880,2
+231,"Joy Bassey",24/SC/CO/881,3
+232,"Victor Essien",24/SC/CO/882,1
+233,"Samuel Okon",24/SC/CO/883,2
+234,"Joshua Etim",24/SC/CO/884,3
+235,"Aniekeme Asuquo",24/SC/CO/885,1
+236,"Emmanuel Inyang",24/SC/CO/886,2
+237,"Blessing Ekanem",24/SC/CO/887,3
+238,"Daniel Ntuen",24/SC/CO/888,1
+239,"David Ita",24/SC/CO/889,2
+240,"Precious Offiong",24/SC/CO/890,3
+241,"Utibe Eyo",24/SC/CO/891,1
+242,"Kufre Chukwu",24/SC/CO/892,2
+243,"Idara Okafor",24/SC/CO/893,3
+244,"Inyang Adeyemi",24/SC/CO/894,1
+245,"Mfon Danladi",24/SC/CO/895,2
+246,"Emeka Bello",24/SC/CO/896,3
+247,"Chinedu Akpan",24/SC/CO/897,1
+248,"Gideon Udoh",24/SC/CO/898,2
+249,"Grace Edet",24/SC/CO/899,3
+250,"Faith Bassey",24/SC/CO/900,1
+251,"Joy Essien",24/SC/CO/901,2
+252,"Victor Okon",24/SC/CO/902,3
+253,"Samuel Etim",24/SC/CO/903,1
+254,"Joshua Umoh",24/SC/CO/904,2
+255,"Aniekeme Inyang",24/SC/CO/905,3
+256,"Emmanuel Ekanem",24/SC/CO/906,1
+257,"Blessing Ntuen",24/SC/CO/907,2
+258,"Daniel Ita",24/SC/CO/908,3
+259,"David Offiong",24/SC/CO/909,1
+260,"Precious Eyo",24/SC/CO/910,2
+261,"Utibe Chukwu",24/SC/CO/911,3
+262,"Kufre Okafor",24/SC/CO/912,1
+263,"Idara Adeyemi",24/SC/CO/913,2
+264,"Inyang Danladi",24/SC/CO/914,3
+265,"Mfon Bello",24/SC/CO/915,1
+266,"Emeka Akpan",24/SC/CO/916,2
+267,"Chinedu Udoh",24/SC/CO/917,3
+268,"Gideon Edet",24/SC/CO/918,1
+269,"Grace Bassey",24/SC/CO/919,2
+270,"Faith Essien",24/SC/CO/920,3
+271,"Joy Okon",24/SC/CO/921,1
+272,"Victor Etim",24/SC/CO/922,2
+273,"Samuel Umoh",24/SC/CO/923,3
+274,"Joshua Asuquo",24/SC/CO/924,1
+275,"Aniekeme Ekanem",24/SC/CO/925,2
+276,"Emmanuel Ntuen",24/SC/CO/926,3
+277,"Blessing Ita",24/SC/CO/927,1
+278,"Daniel Offiong",24/SC/CO/928,2
+279,"David Eyo",24/SC/CO/929,3
+280,"Precious Chukwu",24/SC/CO/930,1
+281,"Utibe Okafor",24/SC/CO/931,2
+282,"Kufre Adeyemi",24/SC/CO/932,3
+283,"Idara Danladi",24/SC/CO/933,1
+284,"Inyang Bello",24/SC/CO/934,2
+285,"Mfon Akpan",24/SC/CO/935,3
+286,"Emeka Udoh",24/SC/CO/936,1
+287,"Chinedu Edet",24/SC/CO/937,2
+288,"Gideon Bassey",24/SC/CO/938,3
+289,"Grace Essien",24/SC/CO/939,1
+290,"Faith Okon",24/SC/CO/940,2
+291,"Joy Etim",24/SC/CO/941,3
+292,"Victor Umoh",24/SC/CO/942,1
+293,"Samuel Asuquo",24/SC/CO/943,2
+294,"Joshua Inyang",24/SC/CO/944,3
+295,"Aniekeme Ntuen",24/SC/CO/945,1
+296,"Emmanuel Ita",24/SC/CO/946,2
+297,"Blessing Offiong",24/SC/CO/947,3
+298,"Daniel Eyo",24/SC/CO/948,1
+299,"David Chukwu",24/SC/CO/949,2
+300,"Precious Okafor",24/SC/CO/950,3
+301,"Utibe Adeyemi",24/SC/CO/951,1
+302,"Kufre Danladi",24/SC/CO/952,2
+303,"Idara Bello",24/SC/CO/953,3
+304,"Inyang Akpan",24/SC/CO/954,1
+305,"Mfon Udoh",24/SC/CO/955,2
+306,"Emeka Edet",24/SC/CO/956,3
+307,"Chinedu Bassey",24/SC/CO/957,1
+308,"Gideon Essien",24/SC/CO/958,2
+309,"Grace Okon",24/SC/CO/959,3
+310,"Faith Etim",24/SC/CO/960,1
+311,"Joy Umoh",24/SC/CO/961,2
+312,"Victor Asuquo",24/SC/CO/962,3
+313,"Samuel Inyang",24/SC/CO/963,1
+314,"Joshua Ekanem",24/SC/CO/964,2
+315,"Aniekeme Ita",24/SC/CO/965,3
+316,"Emmanuel Offiong",24/SC/CO/966,1
+317,"Blessing Eyo",24/SC/CO/967,2
+318,"Daniel Chukwu",24/SC/CO/968,3
+319,"David Okafor",24/SC/CO/969,1
+320,"Precious Adeyemi",24/SC/CO/970,2
+321,"Utibe Danladi",24/SC/CO/971,3
+322,"Kufre Bello",24/SC/CO/972,1
+323,"Idara Akpan",24/SC/CO/973,2
+324,"Inyang Udoh",24/SC/CO/974,3
+325,"Mfon Edet",24/SC/CO/975,1
+326,"Emeka Bassey",24/SC/CO/976,2
+327,"Chinedu Essien",24/SC/CO/977,3
+328,"Gideon Okon",24/SC/CO/978,1
+329,"Grace Etim",24/SC/CO/979,2
+330,"Faith Umoh",24/SC/CO/980,3
+331,"Joy Asuquo",24/SC/CO/981,1
+332,"Victor Inyang",24/SC/CO/982,2
+333,"Samuel Ekanem",24/SC/CO/983,3
+334,"Joshua Ntuen",24/SC/CO/984,1
+335,"Aniekeme Offiong",24/SC/CO/985,2
+336,"Emmanuel Eyo",24/SC/CO/986,3
+337,"Blessing Chukwu",24/SC/CO/987,1
+338,"Daniel Okafor",24/SC/CO/988,2
+339,"David Adeyemi",24/SC/CO/989,3
+340,"Precious Danladi",24/SC/CO/990,1
+341,"Utibe Bello",24/SC/CO/991,2
+342,"Kufre Akpan",24/SC/CO/992,3
+343,"Idara Udoh",24/SC/CO/993,1
+344,"Inyang Edet",24/SC/CO/994,2
+345,"Mfon Bassey",24/SC/CO/995,3
+346,"Emeka Essien",24/SC/CO/996,1
+347,"Chinedu Okon",24/SC/CO/997,2
+348,"Gideon Etim",24/SC/CO/998,3
+349,"Grace Umoh",24/SC/CO/999,1
+350,"Faith Asuquo",24/SC/CO/1000,2
+351,"Joy Inyang",24/SC/CO/1001,3
+352,"Victor Ekanem",24/SC/CO/1002,1
+353,"Samuel Ntuen",24/SC/CO/1003,2
+354,"Joshua Ita",24/SC/CO/1004,3
+355,"Aniekeme Eyo",24/SC/CO/1005,1
+356,"Emmanuel Chukwu",24/SC/CO/1006,2
+357,"Blessing Okafor",24/SC/CO/1007,3
+358,"Daniel Adeyemi",24/SC/CO/1008,1
+359,"David Danladi",24/SC/CO/1009,2
+360,"Precious Bello",24/SC/CO/1010,3
+361,"Utibe Akpan",24/SC/CO/1011,1
+362,"Kufre Udoh",24/SC/CO/1012,2
+363,"Idara Edet",24/SC/CO/1013,3
+364,"Inyang Bassey",24/SC/CO/1014,1
+365,"Mfon Essien",24/SC/CO/1015,2
+366,"Emeka Okon",24/SC/CO/1016,3
+367,"Chinedu Etim",24/SC/CO/1017,1
+368,"Gideon Umoh",24/SC/CO/1018,2
+369,"Grace Asuquo",24/SC/CO/1019,3
+370,"Faith Inyang",24/SC/CO/1020,1
+371,"Joy Ekanem",24/SC/CO/1021,2
+372,"Victor Ntuen",24/SC/CO/1022,3
+373,"Samuel Ita",24/SC/CO/1023,1
+374,"Joshua Offiong",24/SC/CO/1024,2
+375,"Aniekeme Chukwu",24/SC/CO/1025,3
+376,"Emmanuel Okafor",24/SC/CO/1026,1
+377,"Blessing Adeyemi",24/SC/CO/1027,2
+378,"Daniel Danladi",24/SC/CO/1028,3
+379,"David Bello",24/SC/CO/1029,1
+380,"Precious Akpan",24/SC/CO/1030,2
+381,"Utibe Udoh",24/SC/CO/1031,3
+382,"Kufre Edet",24/SC/CO/1032,1
+383,"Idara Bassey",24/SC/CO/1033,2
+384,"Inyang Essien",24/SC/CO/1034,3
+385,"Mfon Okon",24/SC/CO/1035,1
+386,"Emeka Etim",24/SC/CO/1036,2
+387,"Chinedu Umoh",24/SC/CO/1037,3
+388,"Gideon Asuquo",24/SC/CO/1038,1
+389,"Grace Inyang",24/SC/CO/1039,2
+390,"Faith Ekanem",24/SC/CO/1040,3
+391,"Joy Ntuen",24/SC/CO/1041,1
+392,"Victor Ita",24/SC/CO/1042,2
+393,"Samuel Offiong",24/SC/CO/1043,3
+394,"Joshua Eyo",24/SC/CO/1044,1
+395,"Aniekeme Okafor",24/SC/CO/1045,2
+396,"Emmanuel Adeyemi",24/SC/CO/1046,3
+397,"Blessing Danladi",24/SC/CO/1047,1
+398,"Daniel Bello",24/SC/CO/1048,2
+399,"David Akpan",24/SC/CO/1049,3
+400,"Precious Udoh",24/SC/CO/1050,1
+401,"Utibe Edet",24/SC/CO/1051,2
+402,"Kufre Bassey",24/SC/CO/1052,3
+403,"Idara Essien",24/SC/CO/1053,1
+404,"Inyang Okon",24/SC/CO/1054,2
+405,"Mfon Etim",24/SC/CO/1055,3
+406,"Emeka Umoh",24/SC/CO/1056,1
+407,"Chinedu Asuquo",24/SC/CO/1057,2
+408,"Gideon Inyang",24/SC/CO/1058,3
+409,"Grace Ekanem",24/SC/CO/1059,1
+410,"Faith Ntuen",24/SC/CO/1060,2
+411,"Joy Ita",24/SC/CO/1061,3
+412,"Victor Offiong",24/SC/CO/1062,1
+413,"Samuel Eyo",24/SC/CO/1063,2
+414,"Joshua Chukwu",24/SC/CO/1064,3
+415,"Aniekeme Adeyemi",24/SC/CO/1065,1
+416,"Emmanuel Danladi",24/SC/CO/1066,2
+417,"Blessing Bello",24/SC/CO/1067,3
+418,"Daniel Akpan",24/SC/CO/1068,1
+419,"David Udoh",24/SC/CO/1069,2
+420,"Precious Edet",24/SC/CO/1070,3
+421,"Utibe Bassey",24/SC/CO/1071,1
+422,"Kufre Essien",24/SC/CO/1072,2
+423,"Idara Okon",24/SC/CO/1073,3
+424,"Inyang Etim",24/SC/CO/1074,1
+425,"Mfon Umoh",24/SC/CO/1075,2
+426,"Emeka Asuquo",24/SC/CO/1076,3
+427,"Chinedu Inyang",24/SC/CO/1077,1
+428,"Gideon Ekanem",24/SC/CO/1078,2
+429,"Grace Ntuen",24/SC/CO/1079,3
+430,"Faith Ita",24/SC/CO/1080,1
+431,"Joy Offiong",24/SC/CO/1081,2
+432,"Victor Eyo",24/SC/CO/1082,3
+433,"Samuel Chukwu",24/SC/CO/1083,1
+434,"Joshua Okafor",24/SC/CO/1084,2
+435,"Aniekeme Danladi",24/SC/CO/1085,3
+436,"Emmanuel Bello",24/SC/CO/1086,1
+437,"Blessing Akpan",24/SC/CO/1087,2
+438,"Daniel Udoh",24/SC/CO/1088,3
+439,"David Edet",24/SC/CO/1089,1
+440,"Precious Bassey",24/SC/CO/1090,2
+441,"Utibe Essien",24/SC/CO/1091,3
+442,"Kufre Okon",24/SC/CO/1092,1
+443,"Idara Etim",24/SC/CO/1093,2
+444,"Inyang Umoh",24/SC/CO/1094,3
+445,"Mfon Asuquo",24/SC/CO/1095,1
+446,"Emeka Inyang",24/SC/CO/1096,2
+447,"Chinedu Ekanem",24/SC/CO/1097,3
+448,"Gideon Ntuen",24/SC/CO/1098,1
+449,"Grace Ita",24/SC/CO/1099,2
+450,"Faith Offiong",24/SC/CO/1100,3
+451,"Joy Eyo",24/SC/CO/1101,1
+452,"Victor Chukwu",24/SC/CO/1102,2
+453,"Samuel Okafor",24/SC/CO/1103,3
+454,"Joshua Adeyemi",24/SC/CO/1104,1
+455,"Aniekeme Bello",24/SC/CO/1105,2
+456,"Emmanuel Akpan",24/SC/CO/1106,3
+457,"Blessing Udoh",24/SC/CO/1107,1
+458,"Daniel Edet",24/SC/CO/1108,2
+459,"David Bassey",24/SC/CO/1109,3
+460,"Precious Essien",24/SC/CO/1110,1
+461,"Utibe Okon",24/SC/CO/1111,2
+462,"Kufre Etim",24/SC/CO/1112,3
+463,"Idara Umoh",24/SC/CO/1113,1
+464,"Inyang Asuquo",24/SC/CO/1114,2
+465,"Mfon Inyang",24/SC/CO/1115,3
+466,"Emeka Ekanem",24/SC/CO/1116,1
+467,"Chinedu Ntuen",24/SC/CO/1117,2
+468,"Gideon Ita",24/SC/CO/1118,3
+469,"Grace Offiong",24/SC/CO/1119,1
+470,"Faith Eyo",24/SC/CO/1120,2
+471,"Joy Chukwu",24/SC/CO/1121,3
+472,"Victor Okafor",24/SC/CO/1122,1
+473,"Samuel Adeyemi",24/SC/CO/1123,2
+474,"Joshua Danladi",24/SC/CO/1124,3
+475,"Aniekeme Akpan",24/SC/CO/1125,1
+476,"Emmanuel Udoh",24/SC/CO/1126,2
+477,"Blessing Edet",24/SC/CO/1127,3
+478,"Daniel Bassey",24/SC/CO/1128,1
+479,"David Essien",24/SC/CO/1129,2
+480,"Precious Okon",24/SC/CO/1130,3
+481,"Utibe Etim",24/SC/CO/1131,1
+482,"Kufre Umoh",24/SC/CO/1132,2
+483,"Idara Asuquo",24/SC/CO/1133,3
+484,"Inyang Inyang",24/SC/CO/1134,1
+485,"Mfon Ekanem",24/SC/CO/1135,2
+486,"Emeka Ntuen",24/SC/CO/1136,3
+487,"Chinedu Ita",24/SC/CO/1137,1
+488,"Gideon Offiong",24/SC/CO/1138,2
+489,"Grace Eyo",24/SC/CO/1139,3
+490,"Faith Chukwu",24/SC/CO/1140,1
+491,"Joy Okafor",24/SC/CO/1141,2
+492,"Victor Adeyemi",24/SC/CO/1142,3
+493,"Samuel Danladi",24/SC/CO/1143,1
+494,"Joshua Bello",24/SC/CO/1144,2
+495,"Aniekeme Udoh",24/SC/CO/1145,3
+496,"Emmanuel Edet",24/SC/CO/1146,1
+497,"Blessing Bassey",24/SC/CO/1147,2
+498,"Daniel Essien",24/SC/CO/1148,3
+499,"David Okon",24/SC/CO/1149,1
+500,"Precious Etim",24/SC/CO/1150,2
+501,"Utibe Umoh",24/SC/CO/1151,3
+502,"Kufre Asuquo",24/SC/CO/1152,1

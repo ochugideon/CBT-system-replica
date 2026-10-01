@@ -9,6 +9,6 @@ class Exams(Base):
   course_id = Column(Integer, ForeignKey('courses.course_id'))
   title = Column(String)
   duration_minutes = Column(String)
-  start_time = Column(Time)
-  end_time = Column(Time)
+  start_time = Column(String)
+  end_time = Column(String)
   is_active = Column(Boolean)

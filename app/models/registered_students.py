@@ -10,4 +10,4 @@ class Registered(Base):
   exam_id = Column(Integer, ForeignKey('exams.exam_id'))
   access_code_hash = Column(String)
   is_used = Column(Boolean, default=False)
-  registered_at = Column(Time)
+  registered_at = Column(String)

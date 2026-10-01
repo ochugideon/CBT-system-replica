@@ -1,10 +1,16 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
-SQL_BD_URL = 'sqlite:///./exams.db'
+url = os.getenv('SQL_DB_URL')
 
+print(url)
 engine = create_engine(
-  SQL_BD_URL,
+  url,
   connect_args={
     'check_same_thread': False
   }

@@ -6,6 +6,6 @@ class Students(Base):
   __tablename__ = 'students'
   
   student_id = Column(Integer, primary_key=True, index=True)
-  reg_number = Column(String, unique=True)
   full_name = Column(String)
-  department_id = Column(Integer, ForeignKey('departments.dept_id'))
+  reg_number = Column(String, unique=True)
+  dept_id = Column(Integer, ForeignKey('departments.dept_id'))
