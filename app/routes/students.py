@@ -12,12 +12,13 @@ from app.models.students import Students as StudentModel
 from app.models.registered_students import Registered as RegisteredModel
 from app.schemas.students import StudentBase, RegisteredStudentShow
 from app.settings import hashing, random_code_gen
+from app.settings.token import get_current_user
 
 encrypt = hashing.Encrypt()
 random_code = random_code_gen.create_access_code()
 today = today = datetime.now().date().strftime('%d/%m/%Y')
 
-print(today)
+
 
 router = APIRouter(
   prefix='/api/students',
@@ -68,7 +69,6 @@ async def upload_admin_students(
 
         try:
             student_obj = StudentModel(
-                student_id=int(row["student_id"]),
                 full_name=row["full_name"].strip(),
                 reg_number=reg_num,
                 dept_id=int(row["dept_id"])
@@ -115,7 +115,7 @@ def register_exam(exam_id: int,student: StudentBase,db: Session = Depends(get_db
             status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
             detail='no student with this record found.'
         )
-    registered_student = db.query(RegisteredModel).filter_by(student_id= eligible_student.student_id, exam_id=exam_id).first()
+    registered_student = db.query(RegisteredModel).filter_by(reg_number= eligible_student.reg_number, exam_id=exam_id).first()
     
     if registered_student:
         raise HTTPException(
@@ -123,9 +123,9 @@ def register_exam(exam_id: int,student: StudentBase,db: Session = Depends(get_db
             detail= 'student with this reg number already registered for this exam'
         )
     r_student = RegisteredModel(
-        student_id = eligible_student.student_id,
+        reg_number = eligible_student.reg_number,
         exam_id = exam_id,
-        access_code_hash = encrypt.hash_string(random_code),
+        access_code_hash = random_code,
         registered_at = str(today)
     )
     db.add(r_student)
@@ -135,7 +135,7 @@ def register_exam(exam_id: int,student: StudentBase,db: Session = Depends(get_db
     return r_student
  
 @router.get('/')
-def all_students(db: Session = Depends(get_db)):
+def all_students(db: Session = Depends(get_db), current_user: dict = Depends(get_current_user)):
   students = db.query(StudentModel).all()
   
   return students

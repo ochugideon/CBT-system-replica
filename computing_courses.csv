@@ -1,0 +1,59 @@
+course_id,course_code,course_title
+1,COS 101,Introduction to Computing Sciences
+2,COS 102,Problem Solving and Logic
+3,GST 111,Communication in English
+4,GST 112,Nigerian Peoples and Culture
+5,MTH 101,Elementary Mathematics I (Algebra and Trigonometry)
+6,MTH 102,Elementary Mathematics II (Calculus)
+7,PHY 101,General Physics I (Mechanics and Properties of Matter)
+8,PHY 102,General Physics II (Electricity and Magnetism)
+9,PHY 107,General Physics Practical I
+10,PHY 108,General Physics Practical II
+11,STA 111,Descriptive Statistics
+12,IFT 101,Fundamentals of Web Technologies
+13,COS 201,Computer Programming I
+14,COS 202,Computer Programming II
+15,CSC 203,Discrete Mathematics and Structures
+16,IFT 211,Digital Logic Design and Systems
+17,SEN 201,Introduction to Software Engineering
+18,DTS 201,Introduction to Data Science
+19,INS 202,Human-Computer Interaction
+20,CSC 204,Assembly Language Programming
+21,CSC 205,Computer Architecture and Organization
+22,CBY 201,Fundamentals of Cybersecurity
+23,GST 212,"Philosophy, Logic, and Human Existence"
+24,ENT 211,Entrepreneurship and Innovation
+25,MTH 201,Mathematical Methods I
+26,MTH 202,Elementary Differential Equations
+27,STA 201,Probability and Statistics for Physical Sciences
+28,CSC 301,Data Structures and Algorithms
+29,CSC 308,Operating Systems Architecture and Design
+30,CSC 309,Artificial Intelligence and Expert Systems
+31,ICT 305,Data Communication Systems and Networking
+32,SEN 301,Object-Oriented Analysis and Design
+33,IFT 305,Web Application Development
+34,IFT 310,Mobile Application Development
+35,DTS 303,Big Data Computing
+36,DTS 304,Database Management Systems
+37,CBY 301,Cryptography and Network Security
+38,GST 312,Peace Studies and Conflict Resolution
+39,ENT 312,Venture Creation
+40,CSC 399,Students Industrial Work Experience Scheme (SIWES)
+41,CSC 401,Algorithms and Complexity Analysis
+42,CSC 402,"Legal, Ethical, and Professional Issues in Computing"
+43,CSC 403,Compiler Construction and Language Translation
+44,CSC 408,Cloud Computing and Virtualization
+45,CSC 406,Internet of Things and Embedded Systems
+46,CSC 432,Distributed and Parallel Computing Systems
+47,CSC 409,Research Methodology and Technical Report Writing
+48,INS 401,IT Project Management
+49,CSC 497,Final Year Project I
+50,CSC 498,Final Year Project II
+51,CSC 499,Industrial Seminar and Technical Presentation
+52,CSC 405,Human-Computer Interaction and Usability Engineering
+53,CSC 407,Special Topics in Computing
+54,CSC 411,Information Technology Entrepreneurship
+55,CSC 413,Modeling and Simulation
+56,CSC 414,Modeling and AI
+57,CSC 415,Modeling and AI II
+

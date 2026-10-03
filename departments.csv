@@ -1,0 +1,51 @@
+dept_id,name,faculty
+1,Computer Science,Faculty of Computing
+2,Software Engineering,Faculty of Computing
+3,Cybersecurity,Faculty of Computing
+4,Information Technology,Faculty of Computing
+5,Data Science,Faculty of Computing
+6,Mechanical Engineering,Faculty of Engineering
+7,Electrical and Electronics Engineering,Faculty of Engineering
+8,Civil Engineering,Faculty of Engineering
+9,Chemical Engineering,Faculty of Engineering
+10,Petroleum Engineering,Faculty of Engineering
+11,Agricultural Engineering,Faculty of Engineering
+12,Medicine and Surgery,Faculty of Clinical Sciences
+13,Nursing Science,Faculty of Clinical Sciences
+14,Medical Laboratory Science,Faculty of Allied Health Sciences
+15,Physiotherapy,Faculty of Allied Health Sciences
+16,Human Anatomy,Faculty of Basic Medical Sciences
+17,Human Physiology,Faculty of Basic Medical Sciences
+18,Biochemistry,Faculty of Basic Medical Sciences
+19,Pharmacy,Faculty of Pharmacy
+20,Pure and Applied Chemistry,Faculty of Physical Sciences
+21,Physics,Faculty of Physical Sciences
+22,Geology,Faculty of Physical Sciences
+23,Mathematics,Faculty of Physical Sciences
+24,Statistics,Faculty of Physical Sciences
+25,Microbiology,Faculty of Life Sciences
+26,Botany,Faculty of Life Sciences
+27,Zoology,Faculty of Life Sciences
+28,Biotechnology,Faculty of Life Sciences
+29,Economics,Faculty of Social Sciences
+30,Political Science,Faculty of Social Sciences
+31,Sociology,Faculty of Social Sciences
+32,Psychology,Faculty of Social Sciences
+33,Accounting,Faculty of Management Sciences
+34,Business Administration,Faculty of Management Sciences
+35,Banking and Finance,Faculty of Management Sciences
+36,Marketing,Faculty of Management Sciences
+37,Public Administration,Faculty of Management Sciences
+38,English and Literary Studies,Faculty of Arts
+39,History and International Studies,Faculty of Arts
+40,Philosophy,Faculty of Arts
+41,Theatre Arts,Faculty of Arts
+42,Linguistics and Nigerian Languages,Faculty of Arts
+43,Architecture,Faculty of Environmental Studies
+44,Urban and Regional Planning,Faculty of Environmental Studies
+45,Estate Management,Faculty of Environmental Studies
+46,Quantity Surveying,Faculty of Environmental Studies
+47,Public Law,Faculty of Law
+48,Private and Property Law,Faculty of Law
+49,Crop Science,Faculty of Agriculture
+50,Science Education,Faculty of Education

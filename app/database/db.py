@@ -8,7 +8,6 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 
 url = os.getenv('SQL_DB_URL')
 
-print(url)
 engine = create_engine(
   url,
   connect_args={

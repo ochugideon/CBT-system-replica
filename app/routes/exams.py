@@ -29,7 +29,9 @@ def add(course_id, exam: ExamsBase, db: Session = Depends(get_db)):
   
   return new_exam
 
-@router.get('/', response_model=List[ExamsShow])
+@router.get('/')
 def aEll(db: Session = Depends(get_db)):
   exams =  db.query(Exams).all()
-  return exams
+  return {
+      'id': exams[0]['course_id']
+          }

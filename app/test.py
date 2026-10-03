@@ -1,13 +1,19 @@
-# import os
-# from dotenv import load_dotenv
+import pandas as pd
+import json
 
-# load_dotenv()
 
-# print(os.getenv('SQL_DB_URL'))
+df = pd.read_csv('computing_courses.csv')
 
-# from datetime import datetime
-# today = datetime.now().date().strftime('%d/%m/%Y')
+courses = []
+already_exists = []
 
-# print((str(today)))
-
-print(True and False)
+for course in list(df.to_dict(orient='records')):
+  if course['course_code'] in [c['course_code'] for c in courses]:
+    already_exists.append(course)
+  else:
+    courses.append({
+      "course_id": int(course['course_id']),
+      "course_code": course['course_code'],
+      "course_title": course['course_title']
+    })
+# print(courses)

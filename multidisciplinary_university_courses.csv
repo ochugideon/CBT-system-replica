@@ -1,0 +1,41 @@
+course_id,course_code,course_title
+1,MEE 101,Engineering Drawing I
+2,MEE 201,Applied Mechanics and Statics
+3,EEE 202,Circuit Theory I
+4,CVE 301,Fluid Mechanics and Hydraulics
+5,CHE 302,Chemical Engineering Thermodynamics
+6,ANA 201,Human Anatomy I (Gross Anatomy)
+7,PHS 202,Human Physiology I
+8,BCH 201,General Biochemistry I
+9,PCO 301,Basic Principles of Pharmacology
+10,MLS 302,Clinical Histopathology and Cytology
+11,CHM 101,General Chemistry I
+12,CHM 211,Basic Organic Chemistry
+13,BIO 101,General Biology I
+14,BOT 201,Plant Morphology and Taxonomy
+15,ZOO 202,Invertebrate Zoology
+16,ACC 101,Principles of Accounting I
+17,BUS 102,Introduction to Business Administration
+18,ECO 101,Principles of Economics I (Microeconomics)
+19,ECO 202,Principles of Economics II (Macroeconomics)
+20,SOC 101,Introduction to Sociology
+21,PSY 101,Basic Concepts in Psychology
+22,POS 101,Introduction to Political Science
+23,BFN 201,Elements of Banking and Finance
+24,MKT 201,Principles of Marketing
+25,ENG 101,Introduction to English Language and Grammar
+26,LIT 102,Introduction to African Literature
+27,HIS 101,History of West Africa from 1500 to Present
+28,PHL 101,Introduction to Philosophy
+29,THM 201,Introduction to Theatre and Performing Arts
+30,ARC 101,Architectural Graphics and Freehand Drawing
+31,SVG 201,Fundamentals of Surveying and Geoinformatics
+32,URP 202,Urban and Regional Planning Principles
+33,EST 301,Principles of Estate Valuation
+34,PUL 101,Nigerian Legal System I
+35,CIL 201,Law of Contract I
+36,EDU 101,Foundations of Nigerian Education
+37,EDM 201,Educational Psychology and Learning Theories
+38,EDM 202,Educational Psychology and Learning Theories II
+39,EDM 203,Educational Psychology and Learning Theories III
+

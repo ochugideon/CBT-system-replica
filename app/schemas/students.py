@@ -10,7 +10,7 @@ class RegisteredStudentsBase(BaseModel):
     from_attributes = False
 
 class RegisteredStudentShow(BaseModel):
-  student_id: int
+  reg_number: str
   exam_id: int
   access_code_hash: str
   is_used: bool = False
@@ -23,3 +23,12 @@ class StudentBase(BaseModel):
   
   class Config:
     from_attributes = False
+    
+class Login(BaseModel):
+  reg_num: str
+  access_code: str
+  exam_id: int
+  
+class Token(BaseModel):
+  access_token: str
+  token_type: str
